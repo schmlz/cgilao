@@ -1,6 +1,8 @@
 # CG-iLAO*
 
-This repository will be the home of the source code of the CG-iLAO* algorithm and experimental data. 
-The associated publication is: "Johannes Schmalz and Felipe Trevizan. 2024. Efficient Constraint Generation for Stochastic Shortest Path Problems. In Proc. of 38th AAAI Conference on Artificial Intelligence"
+This repository is the home of CG-iLAO*'s source code. We also include benchmark problems and experimental data.
 
-This repository will be populated soon. If you want access to the source code, benchmarks, or experimental data sooner please contact the authors.
+The algorithm was first published in [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/30005) as "Efficient Constraint Generation for Stochastic Shortest Path Problems". We have also submitted a journal paper.
+
+
+If you have any issues or questions, feel free to get in touch with the authors.

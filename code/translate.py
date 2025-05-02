@@ -1,0 +1,1 @@
+translator_from_fast-downward/translate.py
